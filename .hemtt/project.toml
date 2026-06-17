@@ -1,0 +1,16 @@
+name = "Moony's Magnificent STAF Auxillery"
+author = "Moony"
+prefix = "mms"
+mainprefix = "z"
+
+[files]
+include = [
+    "mms.paa",
+]
+
+[version]
+major = 0
+minor = 1
+patch = 0
+build = 0
+git_hash = 0

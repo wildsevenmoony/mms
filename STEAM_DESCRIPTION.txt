@@ -1,0 +1,28 @@
+[h1]Moony's Magnificent STAF Auxillery[/h1]
+
+[b]Moony's Magnificent STAF Auxillery[/b], or [b]MMS[/b], is a small STAF-specific auxiliary mod for Arma 3.
+
+It contains unit-facing tweaks and compatibility config that are useful for the STAF modset, but too specific for the general Moony's Magnificent Base, Additions, Computers, or Modules projects.
+
+[b]Features[/b]
+[list]
+[*] Main menu spotlight for quickly joining the STAF main server
+[*] Cleanup for selected vanilla, CDLC, and scenario main menu spotlights
+[*] CSLA main menu compatibility that restores vanilla-style spotlight controls when CSLA is loaded
+[*] A separate place for STAF-specific UI and compatibility changes
+[/list]
+
+[b]Requirements[/b]
+[list]
+[*] Arma 3
+[/list]
+
+[b]Optional Dependencies[/b]
+[list]
+[*] CSLA, for the CSLA main menu compatibility patch
+[/list]
+
+[b]Usage[/b]
+Load MMS with the STAF modset. The current features apply automatically through config and do not require mission setup.
+
+MMS is built for my own unit [url=https://discord.gg/Ju8FqJ3bpN]STAF[/url] and is intentionally more specific than the other Moony's Magnificent mods.

@@ -1,0 +1,25 @@
+*.pbo
+.hemttout
+.hemttprivatekey
+*.biprivatekey
+*.png
+*.jpg
+*.jpeg
+*.wav
+*.mp3
+*.rpt
+*.log
+*.tmp
+*.bak
+CSLA Dump.txt
+*.bisign
+*.bikey
+*.zip
+*.7z
+*.rar
+keys/
+releases/
+include/
+.hemtt/*
+!.hemtt/project.toml
+.vscode

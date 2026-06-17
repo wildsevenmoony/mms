@@ -1,0 +1,12 @@
+name = "Moony's Magnificent STAF Auxillery";
+picture = "mms.paa";
+logo = "mms.paa";
+logoOver = "mms.paa";
+tooltip = "Moony's Magnificent STAF Auxillery";
+tooltipOwned = "Moony's Magnificent STAF Auxillery";
+overview = "STAF-specific auxiliary content for Moony's Magnificent mods.";
+author = "Moony";
+overviewPicture = "mms.paa";
+overviewText = "Moony's Magnificent STAF Auxillery";
+hideName = 0;
+hidePicture = 0;
