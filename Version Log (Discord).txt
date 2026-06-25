@@ -1,0 +1,11 @@
+# **Moony's Magnificent STAF Auxillery** - Initial Release DD.MM.YYYY
+-# Version 0.1.0.1
+## Added
+- STAF main menu spotlight for quickly joining the main server
+- Cleanup for selected vanilla, CDLC and scenario main menu spotlights
+- CSLA main menu compatibility patch that restores vanilla-style spotlight controls when CSLA is loaded
+- Separate STAF-specific auxiliary mod structure using the same HEMTT/GitHub layout as the other Moony's Magnificent mods
+## Removed
+- Nothing
+## Changed
+- Nothing
